@@ -7,7 +7,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu sou formado(a) em Gestão da Tecnologia da Informação pela Universidade de Guarulhos 
+🎓 Eu sou formada em Gestão da Tecnologia da Informação pela Universidade de Guarulhos 
 
 👩‍💻 Atualmente eu trabalho como Analista de Risco na B3 - A Bolsa do Brasil
 
