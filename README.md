@@ -1,4 +1,4 @@
-# Olá, sou a Francielly Christhina Silva 👋
+# Olá, me chamo Francielly Christhina Silva 👋
 
 ### Sobre mim
 
