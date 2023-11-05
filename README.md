@@ -15,7 +15,7 @@
 
 ✒️ Eu gosto de no meu tempo livre leitura & exercícios ;
 
-📚 Lendo: [Livro que está lendo atualmente]
+📚 Lendo: 
 
 ### Eu já trabalhei como Analista de QA 💻
 
