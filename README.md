@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Eu sou uma entusiasta por projetos e automações Robot Framework & Python.py
+💻 Eu sou uma entusiasta por projetos e automações Robot Framework & Python
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
